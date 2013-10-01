@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+@class CRDetailViewController;
+@class CRMasterViewController;
 
 @interface CRAppDelegate : UIResponder <UIApplicationDelegate>
 

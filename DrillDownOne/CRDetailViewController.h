@@ -12,5 +12,8 @@
 
 @property (strong, nonatomic) id detailItem;
 
+@property (weak, nonatomic) IBOutlet UITextField *listitem;
+
+
 @property (weak, nonatomic) IBOutlet UILabel *detailDescriptionLabel;
 @end
